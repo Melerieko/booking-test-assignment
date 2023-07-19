@@ -18,8 +18,6 @@ Because we don't have information about capacity for 2021-05-20 and later - capa
 
 ## How to install application
 Clone repository from [GitHub](https://github.com/Melerieko/booking-test-assignment) using:
-
-Create `.env` file from `.env.example` file.
 ```
 git clone git@github.com:Melerieko/booking-test-assignment.git
 ```
