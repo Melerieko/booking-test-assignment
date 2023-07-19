@@ -1,0 +1,36 @@
+body {
+    background: #2d3134 !important;
+}
+
+h2 {
+    text-align: center;
+    color: #edf2f7;
+    font-weight: 600 !important;
+    margin-top: 1.5rem !important;
+}
+
+.center {
+    margin: auto;
+    width: 85%;
+    padding: 1rem;
+}
+
+.custom-table {
+    margin-bottom: 2rem !important;
+}
+
+.custom-border {
+    border: 2px solid #1d262c !important;
+}
+
+.first-column {
+    width: 20%
+}
+
+.second-column {
+    width: 40%
+}
+
+.third-column {
+    width: 40%
+}
